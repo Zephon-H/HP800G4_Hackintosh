@@ -9,4 +9,3 @@ Disk：WD SN570 NVME PCIe 3.0 1TB
 Network：DW1560
 
 OS：macOS Ventura 13.0.1
-
